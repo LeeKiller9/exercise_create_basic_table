@@ -1,0 +1,57 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    width: 70%;
+    margin: 30px auto;
+}
+
+.inline {
+    display: inline-block;
+    width: 49%;
+    margin-bottom: 5px;
+}
+
+.right {
+    text-align: right;
+}
+
+.left {
+    padding-left: 20px;
+}
+
+h2 {
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+h2, p {
+    color: blue;
+}
+
+p, th, td {
+    font-size: 20px;
+}
+
+table {
+    margin-top: 20px;
+    width: 100%;
+    border-collapse: collapse;
+    text-align: center;
+}
+
+th, td {
+    border: 2px solid black;
+    padding: 10px;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+.orange {
+    background-color: orange;
+}
